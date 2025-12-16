@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604018773382",
+    "project_id": "l2voxvalley",
+    "storage_bucket": "l2voxvalley.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604018773382:android:1224bf94fb8ac343603007",
+        "android_client_info": {
+          "package_name": "com.l2round_voxvalleycom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604018773382-g8dcu4drbpe9g89p1t8nafd2981vuuo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.l2round_voxvalleycom",
+            "certificate_hash": "3d1b4d565d10f02c5a4d5909afd00074a07609cc"
+          }
+        },
+        {
+          "client_id": "604018773382-hsrt80m12nltet9ns2jg63q5f33e2mu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURmPPpbdTdoL-W-LsJ2SJlkHgoACz3H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604018773382-hsrt80m12nltet9ns2jg63q5f33e2mu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
